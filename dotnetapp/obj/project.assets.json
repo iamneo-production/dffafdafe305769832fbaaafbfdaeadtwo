@@ -8684,27 +8684,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\divak\\.nuget\\packages\\": {}
+    "/home/coder/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dotnet_MS3_Solutions\\Academy Job Hiring\\SportsAcademyJobHiring\\SportsAcademyJobHiring\\SportsAcademyJobHiring.csproj",
+      "projectUniqueName": "/home/coder/project/workspace/dotnetapp/SportsAcademyJobHiring.csproj",
       "projectName": "SportsAcademyJobHiring",
-      "projectPath": "D:\\Dotnet_MS3_Solutions\\Academy Job Hiring\\SportsAcademyJobHiring\\SportsAcademyJobHiring\\SportsAcademyJobHiring.csproj",
-      "packagesPath": "C:\\Users\\divak\\.nuget\\packages\\",
-      "outputPath": "D:\\Dotnet_MS3_Solutions\\Academy Job Hiring\\SportsAcademyJobHiring\\SportsAcademyJobHiring\\obj\\",
+      "projectPath": "/home/coder/project/workspace/dotnetapp/SportsAcademyJobHiring.csproj",
+      "packagesPath": "/home/coder/.nuget/packages/",
+      "outputPath": "/home/coder/project/workspace/dotnetapp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\divak\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/coder/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8803,7 +8800,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.414/RuntimeIdentifierGraph.json"
       }
     }
   }
