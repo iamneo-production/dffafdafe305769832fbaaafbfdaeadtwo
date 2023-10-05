@@ -53,7 +53,7 @@ import { JobApplication } from 'src/models/job-application.model';
   providedIn: 'root'
 })
 export class JobService {
-  private apiUrl = 'https://localhost:7115/api/job'; // Replace with your API URL
+  private apiUrl = 'https://8080-dffafdafe305769832fbaaafbfdaeadtwo.premiumproject.examly.io/api/job'; // Replace with your API URL
 
   constructor(private http: HttpClient) { }
 
